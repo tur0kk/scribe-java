@@ -7,8 +7,8 @@
 
 # IntelliJ Idea settings
 
-.idea
-scribe.iml
+*.idea
+*.iml
 
 # Binaries
 
