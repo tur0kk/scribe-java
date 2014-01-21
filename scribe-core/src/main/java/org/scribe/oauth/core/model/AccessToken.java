@@ -5,7 +5,7 @@ public class AccessToken
   private final String token;
   private final String secret;
 
-  public static AccessToken Empty = new AccessToken("", "");
+  public static final AccessToken Empty = new AccessToken("", "");
 
   public AccessToken(String token, String secret)
   {
