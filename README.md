@@ -1,3 +1,7 @@
+Differences to original scribe:
+Quick and dirty UserAgent replacement for Thingiverse support in VisiCut.
+
+
 # Welcome to the home of Scribe, the simple OAuth Java lib! 
 
 ![travis ci](https://secure.travis-ci.org/fernandezpablo85/scribe-java.png?branch=master)
